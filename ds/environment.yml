@@ -1,0 +1,16 @@
+name: ds
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - make
+  - numpy=2.2
+  - pandas=2.2
+  - conda-forge::seaborn
+  - conda-forge::geopandas
+  - conda-forge::geojson
+  - conda-forge::contextily
+  - conda-forge::imageio
+  - conda-forge::aspell
+  - conda-forge::git-filter-repo
+prefix: /Users/pbogden/miniconda3

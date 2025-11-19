@@ -1,0 +1,25 @@
+name: ds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy=2.2
+  - conda-forge::aspell
+  - conda-forge::seaborn
+  - conda-forge::git-filter-repo
+  - pandas=2.2
+  - conda-forge::contextily
+  - conda-forge::geojson
+  - python=3.13
+  - conda-forge::imageio
+  - make
+  - conda-forge::geopandas
+  - conda-forge::p7zip
+  - conda-forge::ipykernel
+  - conda-forge::keras
+  - huggingface::datasets
+  - r-base
+  - r-sjstats
+  - conda-forge::pytorch
+  - conda-forge::fastparquet
+prefix: /Users/pbogden/miniconda3/envs/ds

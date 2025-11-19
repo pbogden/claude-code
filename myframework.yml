@@ -1,0 +1,11 @@
+name: framework
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-forge::nodejs
+  - flask==3.1
+  - make
+  - conda-forge::yarn
+  - werkzeug==3.1
+prefix: /Users/pbogden/miniconda3/envs/framework
