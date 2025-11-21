@@ -14,9 +14,19 @@ claude
 > /init
 ```
 
+* https://www.anthropic.com/engineering/claude-code-best-practices
+
+## Claude code install
+
+* Anthropic did not create claude code for integration with an IDE -- (see final Q&A in video)
+   * See: [Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0)
+* Don't `npm install -g @anthropic-ai/claude-code`
+* Do `curl -fsSL https://claude.ai/install.sh | bash`
+
 ## Node.js install
 
-* Using fnm eliminates security concerns by avoiding the need for sudo during installations, preventing third-party libraries from potentially gaining root-level access to your machine 
+* Using fnm eliminates security concerns by avoiding the need for sudo during installations, 
+  preventing third-party libraries from potentially gaining root-level access to your machine 
 * https://nodejs.org/en/download
 * NVM (Node Version Manager) - Recommended for managing multiple Node.js versions
   * Apparently (not verified): For Apple Silicon Macs (M1/M2/M3), NVM is particularly recommended because it 
