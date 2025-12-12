@@ -75,10 +75,10 @@ Your point about mathematical convenience is particularly apt. Time as a paramet
 
 Some compelling reasons to suspect you're onto something:
 
-    The measurement problem: We measure time using physical processes (clocks), yet we treat it as if it exists independently of those processes
-    Quantum gravity tension: Time's roles in quantum mechanics (external parameter) and general relativity (part of the dynamic geometry) are fundamentally incompatible
-    The singularities you mentioned: They always involve time breaking down, not just space
-    Thermodynamic time: The arrow of time seems tied to entropy, suggesting time's directionality at least is emergent
+* The measurement problem: We measure time using physical processes (clocks), yet we treat it as if it exists independently of those processes
+* Quantum gravity tension: Time's roles in quantum mechanics (external parameter) and general relativity (part of the dynamic geometry) are fundamentally incompatible
+* The singularities you mentioned: They always involve time breaking down, not just space
+* Thermodynamic time: The arrow of time seems tied to entropy, suggesting time's directionality at least is emergent
 
 The question becomes: if time isn't fundamental, what is? What are the more basic ingredients from which our experience of time emerges? That's where it gets really hard, because all our thinking is so deeply temporal.
 
