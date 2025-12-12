@@ -32,9 +32,9 @@ This is similar to how Newton's law told us that masses attract with a force pro
 
 Some possibilities physicists explore:
 
-    In quantum field theory, mass is related to how particles interact with fields like the Higgs field, but this doesn't directly explain the gravitational coupling
-    Attempts at quantum gravity (like string theory or loop quantum gravity) try to understand gravity at a more fundamental level, potentially revealing why this mass-geometry relationship exists
-    Some theories suggest space-time itself might be emergent from something more fundamental
+* In quantum field theory, mass is related to how particles interact with fields like the Higgs field, but this doesn't directly explain the gravitational coupling
+* Attempts at quantum gravity (like string theory or loop quantum gravity) try to understand gravity at a more fundamental level, potentially revealing why this mass-geometry relationship exists
+* Some theories suggest space-time itself might be emergent from something more fundamental
 
 So honestly? We don't know. It's one of the deep mysteries that a complete theory of quantum gravity would hopefully illuminate.
 
@@ -52,10 +52,10 @@ Time as fundamental: In both classical physics and standard quantum mechanics, t
 
 Time as possibly emergent: Some theoretical approaches do suggest time might emerge from something deeper:
 
-    In certain quantum gravity theories (like some versions of loop quantum gravity or causal set theory), what we experience as time might arise from more fundamental, timeless quantum processes
-    The "problem of time" in quantum gravity shows tensions between quantum mechanics (where time is a parameter) and general relativity (where time is part of the dynamic geometry)
-    Thermodynamics hints that our perception of time's "arrow" (past vs. future) emerges from entropy increasing, though this doesn't mean time itself is emergent
-    Some interpretations of quantum mechanics toy with timeless formulations
+* In certain quantum gravity theories (like some versions of loop quantum gravity or causal set theory), what we experience as time might arise from more fundamental, timeless quantum processes
+* The "problem of time" in quantum gravity shows tensions between quantum mechanics (where time is a parameter) and general relativity (where time is part of the dynamic geometry)
+* Thermodynamics hints that our perception of time's "arrow" (past vs. future) emerges from entropy increasing, though this doesn't mean time itself is emergent
+* Some interpretations of quantum mechanics toy with timeless formulations
 
 The honest answer: We don't know if time is fundamental or emergent. It's an active area of research and deep disagreement. Physicists like Carlo Rovelli argue for emergence, while others maintain time is fundamental. The question is intimately tied to developing a theory of quantum gravity, which we don't yet have.
 
