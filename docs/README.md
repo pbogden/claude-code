@@ -1,4 +1,4 @@
 # My conversations with Claude
 
-* [causation](claude-causation.md)
+* [causality](claude-causation.md)
 * [gravity](claude-gravity.md)

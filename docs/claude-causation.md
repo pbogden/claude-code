@@ -1,7 +1,12 @@
+# Causality
+
 ## me
 
-Please make this paragraph understandable to a child: "Since causality is a subtle metaphysical notion, considerable intellectual effort, along with exhibition of evidence, is needed to establish knowledge of it in particular empirical circumstances. According to David Hume, the human mind is unable to perceive causal relations directly. On this ground, the scholar distinguished between the regularity view of causality and the counterfactual notion.[11] According to the counterfactual view, X causes Y if and only if, without X, Y would not exist. Hume interpreted the latter as an ontological view, i.e., as a description of the nature of causality but, given the limitations of the human mind, advised using the former (stating, roughly, that X causes Y if and only if the two events are spatiotemporally conjoined, and X precedes Y) as an epistemic definition of causality. We need an epistemic concept of causality in order to distinguish between causal and noncausal relations. The contemporary philosophical literature on causality can be divided into five big approaches to causality. These include the (mentioned above) regularity, probabilistic, counterfactual, mechanistic, and manipulationist views. The five approaches can be shown to be reductive, i.e., define causality in terms of relations of other types.[12] According to this reading, they define causality in terms of, respectively, empirical regularities (constant conjunctions of events), changes in conditional probabilities, counterfactual conditions, mechanisms underlying causal relations, and invariance under intervention."
-Edit
+Please make this paragraph understandable to a child: 
+
+> Since causality is a subtle metaphysical notion, considerable intellectual effort, along with exhibition of evidence, is needed to establish knowledge of it in particular empirical circumstances. According to David Hume, the human mind is unable to perceive causal relations directly. On this ground, the scholar distinguished between the regularity view of causality and the counterfactual notion.[11] According to the counterfactual view, X causes Y if and only if, without X, Y would not exist. Hume interpreted the latter as an ontological view, i.e., as a description of the nature of causality but, given the limitations of the human mind, advised using the former (stating, roughly, that X causes Y if and only if the two events are spatiotemporally conjoined, and X precedes Y) as an epistemic definition of causality. We need an epistemic concept of causality in order to distinguish between causal and noncausal relations. The contemporary philosophical literature on causality can be divided into five big approaches to causality. These include the (mentioned above) regularity, probabilistic, counterfactual, mechanistic, and manipulationist views. The five approaches can be shown to be reductive, i.e., define causality in terms of relations of other types.[12] According to this reading, they define causality in terms of, respectively, empirical regularities (constant conjunctions of events), changes in conditional probabilities, counterfactual conditions, mechanisms underlying causal relations, and invariance under intervention.
+
+Reference: [Causality](https://en.wikipedia.org/wiki/Causality) -- wikipedia
 
 ## Claude
 
@@ -43,7 +48,7 @@ This is why Hume said our minds can't directly perceive causation - we only see 
 
 ## me 
 
-Seems to me that you're saying causality is tricky in situations where we don't understand the mechanisms that relate two observations observations or events. Is that correct?
+Seems to me that you're saying causality is tricky in situations where we don't understand the mechanisms that relate two observations or events. Is that correct?
 
 ## Claude
 
@@ -53,14 +58,14 @@ Even when we do understand the mechanisms perfectly, causality remains philosoph
 
 Example with known mechanisms:
 
-    We push a ball, and it rolls
-    We understand the physics completely: force transfers momentum, friction acts on the ball, gravity pulls it down, etc.
-    We can write equations predicting exactly what will happen
+* We push a ball, and it rolls
+* We understand the physics completely: force transfers momentum, friction acts on the ball, gravity pulls it down, etc.
+* We can write equations predicting exactly what will happen
 
 But philosophically, we still can't directly observe "causation" itself - we only see:
 
-    Hand touches ball
-    Ball moves
+* Hand touches ball
+* Ball moves
 
 The "causation" - that mysterious connection where one event makes another happen - remains invisible even when we know all the mechanics.
 
