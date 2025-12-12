@@ -38,7 +38,7 @@ Some possibilities physicists explore:
 
 So honestly? We don't know. It's one of the deep mysteries that a complete theory of quantum gravity would hopefully illuminate.
 
-## Me
+## me
 
 Well, time is emergent, right?
 
