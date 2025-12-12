@@ -173,36 +173,36 @@ Great question! This statement is about how we need a practical way to identify 
 
 First, what's "epistemic"?
 
-    Epistemic = related to knowledge and how we know things
-    An "epistemic concept" is a practical tool for gaining knowledge, not necessarily a description of ultimate reality
+* Epistemic = related to knowledge and how we know things
+* An "epistemic concept" is a practical tool for gaining knowledge, not necessarily a description of ultimate reality
 
 Why do we need this? Remember the rooster example? Every morning:
 
-    Rooster crows → Sun rises
+* Rooster crows → Sun rises
 
 Without a good method to distinguish correlation from causation, we might think roosters cause sunrise! We need practical criteria to separate:
 
-    Causal relations: Push ball → ball rolls
-    Non-causal relations: Rooster crows → sun rises
+* Causal relations: Push ball → ball rolls
+* Non-causal relations: Rooster crows → sun rises
 
 Hume's practical solution: Since we can't see causation directly, Hume suggested we use observable criteria:
 
-    The events happen together in space and time
-    One event precedes the other
-    This pattern repeats reliably
+* The events happen together in space and time
+* One event precedes the other
+* This pattern repeats reliably
 
 This isn't what causation IS (that's the metaphysical question), but it's how we can identify it in practice.
 
 Modern additions: Scientists have developed more sophisticated epistemic tools:
 
-    Intervention: If I can make Y happen by doing X, that suggests causation
-    Statistical methods: Controlling for other variables
-    Mechanism investigation: Even though we don't have "ultimate" mechanisms, partial understanding helps
+* Intervention: If I can make Y happen by doing X, that suggests causation
+* Statistical methods: Controlling for other variables
+* Mechanism investigation: Even though we don't have "ultimate" mechanisms, partial understanding helps
 
 The key insight: We need these practical methods because otherwise we'd be stuck. We'd either:
 
-    See causation everywhere (superstition)
-    See causation nowhere (paralysis)
+* See causation everywhere (superstition)
+* See causation nowhere (paralysis)
 
 So an epistemic concept of causality is like a metal detector - it's a tool that helps us find what we're looking for, even though we can't see it directly.
 
@@ -220,10 +220,10 @@ But here's what might be genuinely interesting rather than "profound":
 
 It's practically important: This distinction between what causation is versus how we identify it underlies:
 
-    The entire scientific method
-    How we distinguish medicine from snake oil
-    Why correlation ≠ causation is drilled into every stats student
-    How we avoid superstition while still being able to act in the world
+* The entire scientific method
+* How we distinguish medicine from snake oil
+* Why correlation ≠ causation is drilled into every stats student
+* How we avoid superstition while still being able to act in the world
 
 It's humbling: We act with such confidence about causes ("I know the light switch causes the light to turn on!"), but we're really just very good at pattern recognition. All our causal knowledge is indirect.
 
@@ -245,16 +245,16 @@ A long time ago, a smart man named David Hume noticed something interesting: we 
 
 Think of it like this: When you flip a light switch, the light turns on. You see:
 
-    Your finger flips the switch
-    The light turns on
+* Your finger flips the switch
+* The light turns on
 
 But you don't see the "because" part - the actual causing. You just see two things happen in order.
 
 Scientists have come up with different ways to figure out what causes what:
 
-    Pattern watching: If every time you drop a toy, it falls down, you say dropping causes falling.
-    What-if thinking: If you hadn't pushed the ball, would it have rolled? No? Then your push probably caused it to roll!
-    Testing it yourself: If you can make something happen by doing something (like making a plant grow by watering it), then you know watering helps cause growth.
+* Pattern watching: If every time you drop a toy, it falls down, you say dropping causes falling.
+* What-if thinking: If you hadn't pushed the ball, would it have rolled? No? Then your push probably caused it to roll!
+* Testing it yourself: If you can make something happen by doing something (like making a plant grow by watering it), then you know watering helps cause growth.
 
 Even though we have really good rules (like gravity) that tell us what will happen when we drop things, we still can't see the actual "causing" - we just see patterns that happen the same way over and over.
 
@@ -272,9 +272,9 @@ The whole point of the Humean insight is that we infer causation rather than dir
 
 I think I fell into this trap because:
 
-    When writing for children, I defaulted to simple, confident statements
-    I was unconsciously using the everyday way we talk about causation (as if it's certain)
-    I wasn't being careful enough about the distinction between practical confidence and philosophical certainty
+* When writing for children, I defaulted to simple, confident statements
+* I was unconsciously using the everyday way we talk about causation (as if it's certain)
+* I wasn't being careful enough about the distinction between practical confidence and philosophical certainty
 
 This is actually a perfect example of how deeply ingrained our causal thinking is - even when trying to explain that causation is inferred rather than observed, I slipped into talking about it as if we directly "know" causes!
 
