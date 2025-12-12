@@ -34,10 +34,10 @@ Why it's "metaphysical": Metaphysics deals with questions about what reality is 
 
 Why it's "subtle" (tricky/not obvious): Here are some mind-bending examples that show why causality is so tricky:
 
-    The rooster problem: Every morning, a rooster crows and then the sun rises. Does the rooster cause the sun to rise? Of course not! But they always happen together. This shows that just because things happen in sequence doesn't mean one causes the other.
-    Multiple causes: You get sick. Was it because you were stressed? Didn't sleep enough? Touched a doorknob? Were near someone sick? Often many things contribute, making it hard to pin down THE cause.
-    Invisible connections: When you flip a light switch, the light turns on. But the actual cause (electricity flowing through wires) is invisible. We only see the correlation, not the causation itself.
-    The prevention puzzle: If you stop a ball from rolling off a table, did you "cause" it to stay on the table? What about all the times you're not actively stopping things - are you causing them to happen by not preventing them?
+  * The rooster problem: Every morning, a rooster crows and then the sun rises. Does the rooster cause the sun to rise? Of course not! But they always happen together. This shows that just because things happen in sequence doesn't mean one causes the other.
+  * Multiple causes: You get sick. Was it because you were stressed? Didn't sleep enough? Touched a doorknob? Were near someone sick? Often many things contribute, making it hard to pin down THE cause.
+  * Invisible connections: When you flip a light switch, the light turns on. But the actual cause (electricity flowing through wires) is invisible. We only see the correlation, not the causation itself.
+  * The prevention puzzle: If you stop a ball from rolling off a table, did you "cause" it to stay on the table? What about all the times you're not actively stopping things - are you causing them to happen by not preventing them?
 
 This is why Hume said our minds can't directly perceive causation - we only see patterns and sequences, then our brains fill in the "because" part. We're always making educated guesses about what causes what, rather than directly observing causation itself.
 
