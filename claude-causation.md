@@ -43,7 +43,7 @@ This is why Hume said our minds can't directly perceive causation - we only see 
 
 ## me 
 
-Seems to me that you're saying causality is tricky in situations where we don't understand the mechanisms that relate two observations observations or events. Is that correct?
+Seems to me that you're saying causality is tricky in situations where we don't understand the mechanisms that relate two observations or events. Is that correct?
 
 ## Claude
 
@@ -53,14 +53,14 @@ Even when we do understand the mechanisms perfectly, causality remains philosoph
 
 Example with known mechanisms:
 
-    We push a ball, and it rolls
-    We understand the physics completely: force transfers momentum, friction acts on the ball, gravity pulls it down, etc.
-    We can write equations predicting exactly what will happen
+* We push a ball, and it rolls
+* We understand the physics completely: force transfers momentum, friction acts on the ball, gravity pulls it down, etc.
+* We can write equations predicting exactly what will happen
 
 But philosophically, we still can't directly observe "causation" itself - we only see:
 
-    Hand touches ball
-    Ball moves
+* Hand touches ball
+* Ball moves
 
 The "causation" - that mysterious connection where one event makes another happen - remains invisible even when we know all the mechanics.
 
