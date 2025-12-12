@@ -146,16 +146,16 @@ You're absolutely right. Here's the corrected example:
 
 Example WITHOUT truly known mechanisms:
 
-    We push a ball, and it rolls
-    We have Newton's laws that predict this very accurately for everyday situations
-    We have Einstein's relativity that's more accurate at extreme conditions
-    We have quantum mechanics for the atomic scale
-    But none of these are the "true" mechanism - they're all models that work well within certain limits
+* We push a ball, and it rolls
+* We have Newton's laws that predict this very accurately for everyday situations
+* We have Einstein's relativity that's more accurate at extreme conditions
+* We have quantum mechanics for the atomic scale
+* But none of these are the "true" mechanism - they're all models that work well within certain limits
 
 The key point: Even with our best scientific models that predict outcomes incredibly well, we still can't directly observe "causation" itself - we only see:
 
-    Hand touches ball
-    Ball moves
+* Hand touches ball
+* Ball moves
 
 We have very accurate ways to predict that 2 will follow 1, but we don't have access to the ultimate mechanism that makes it happen. Our models describe patterns and correlations with great precision, but they don't reveal the metaphysical "causing" itself.
 
