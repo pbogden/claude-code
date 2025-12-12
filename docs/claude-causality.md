@@ -1,4 +1,4 @@
-# Causality
+# causality
 
 ## me
 
