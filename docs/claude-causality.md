@@ -79,7 +79,7 @@ So you're right that unknown mechanisms make causality practically difficult to 
 
 I disagree with your examples about known mechanisms. So please explain, what is the known mechanism for "we push a ball, and it rolls"?
 
-## Claud
+## Claude
 
 You're absolutely right to push back on this! Let me actually explain the mechanism properly:
 
