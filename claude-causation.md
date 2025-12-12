@@ -1,3 +1,5 @@
+# Causality
+
 ## me
 
 Please make this paragraph understandable to a child: 
@@ -83,20 +85,20 @@ You're absolutely right to push back on this! Let me actually explain the mechan
 
 The mechanism for "push ball → ball rolls":
 
-    Force application: Your hand applies a force to the ball at a contact point
-    Force transmission: The force creates pressure waves that propagate through the ball's material
-    Momentum transfer: The molecules in your hand transfer kinetic energy to the ball's molecules through electromagnetic forces between atoms
-    Acceleration: Following Newton's second law (F=ma), the ball accelerates in the direction of the net force
-    Rotation initiation: If the push is above the ball's center and there's friction with the ground, this creates a torque that causes rotation
-    Continued motion: The ball continues moving due to inertia, with its kinetic energy gradually dissipated by friction and air resistance
+* Force application: Your hand applies a force to the ball at a contact point
+* Force transmission: The force creates pressure waves that propagate through the ball's material
+* Momentum transfer: The molecules in your hand transfer kinetic energy to the ball's molecules through electromagnetic forces between atoms
+* Acceleration: Following Newton's second law (F=ma), the ball accelerates in the direction of the net force
+* Rotation initiation: If the push is above the ball's center and there's friction with the ground, this creates a torque that causes rotation
+* Continued motion: The ball continues moving due to inertia, with its kinetic energy gradually dissipated by friction and air resistance
 
 You're right - when I said we "understand the physics completely," I was being way too hand-wavy. The actual mechanism is quite complex and involves multiple layers of physical processes.
 
 But here's the thing: even if we map out every single molecular interaction, every force vector, every energy transfer... Hume's philosophical point is that we still only observe sequences of states:
 
-    State 1: Hand approaching ball
-    State 2: Hand in contact with ball
-    State 3: Ball moving
+* State 1: Hand approaching ball
+* State 2: Hand in contact with ball
+* State 3: Ball moving
 
 The "causation" itself - the metaphysical "oomph" that makes State 1 produce State 3 - isn't something we can point to. We see patterns that follow laws, but not the "causing" itself.
 
