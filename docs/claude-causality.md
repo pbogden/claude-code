@@ -114,21 +114,21 @@ You're absolutely right - I need to stop claiming we have "known" mechanisms. Yo
 
 You're correct that:
 
-    Newton's laws are approximations that work well at everyday scales
-    Einstein showed us they break down at high speeds/strong gravitational fields
-    Even Einstein's theories are likely approximations of something deeper
-    We don't have any "final" theory of physics
+* Newton's laws are approximations that work well at everyday scales
+* Einstein showed us they break down at high speeds/strong gravitational fields
+* Even Einstein's theories are likely approximations of something deeper
+* We don't have any "final" theory of physics
 
 And this actually strengthens the philosophical puzzle about causality! We have:
 
-    Useful models that predict outcomes very accurately
-    No ultimate "true" mechanism that we can point to as THE cause
+* Useful models that predict outcomes very accurately
+* No ultimate "true" mechanism that we can point to as THE cause
 
 So when I push a ball and it rolls, what we really have is:
 
-    An observation (push → roll)
-    Various theoretical frameworks that predict this correlation at different levels of accuracy
-    No bedrock "truth" about what's "really" happening
+* An observation (push → roll)
+* Various theoretical frameworks that predict this correlation at different levels of accuracy
+* No bedrock "truth" about what's "really" happening
 
 This makes Hume's point even more compelling: Not only can't we directly perceive causation, but even our best scientific theories about mechanisms are provisional models rather than descriptions of "what's really causing what."
 
